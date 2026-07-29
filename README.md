@@ -15,7 +15,7 @@ Die Übersetzung ist nahezu abgeschlossen. Aktuell werden nur noch kleinere Fehl
 ## Installation
 
 1. Lade den **EnmaPatcher** herunter:
-https://github.com/hxgohxrr/Enma-Patcher/releases/tag/1.2.0
+https://github.com/hxgohxrr/Enma-Patcher/releases
 
 
 2. Öffne den EnmaPatcher und gehe zu **Einstellungen**.
