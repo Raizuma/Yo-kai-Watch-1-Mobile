@@ -51,5 +51,3 @@ Es werden keine urheberrechtlich geschützten Spieldateien bereitgestellt. Für 
 - **Raizuma** – Projektleitung & deutsche Übersetzung
 - **EnmaPatcher** – hxgohxrr 
 - Alle Tester und Mitwirkenden
-ion
-- Alle Tester und Mitwirkenden
