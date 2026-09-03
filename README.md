@@ -49,5 +49,4 @@ Es werden keine urheberrechtlich geschützten Spieldateien bereitgestellt. Für 
 ## Credits
 
 - **Raizuma** – Projektleitung & deutsche Übersetzung
-- **EnmaPatcher** – hxgohxrr 
 - Alle Tester und Mitwirkenden
