@@ -50,3 +50,5 @@ Es werden keine urheberrechtlich geschützten Spieldateien bereitgestellt. Für 
 
 - **Raizuma** – Projektleitung & deutsche Übersetzung
 - Alle Tester und Mitwirkenden
+- EnmaPatcher - hxgohxrr
+- Passwortdateien - Chip_LG08 & hxgohxrr
